@@ -1,6 +1,7 @@
 # northwind-database-BI
 
-# Business Intelligence Project with Power BI concerning the Northwind database.
+# Business Intelligence Project with Power BI
+# Analysis of Northwind database.
 
 
 ## Purpose of this project:
